@@ -1,0 +1,1 @@
+libraries\php\php.exe libraries\script.php %*
